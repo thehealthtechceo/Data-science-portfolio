@@ -4,6 +4,7 @@
 Welcome to my GitHub profile! I’m a Data Analyst and aspiring Data Scientist passionate about exploring and analyzing data to uncover valuable insights that drive cost efficiencies and improve patient outcomes by predicting negative health events and risks.
 
 🔭 What I'm Working On:
+
 -Exploring the field of data science and machine learning with a focus on healthcare and medicine.
 
 -Currently focusing on learning new skills in Python (data science and machine learning).
