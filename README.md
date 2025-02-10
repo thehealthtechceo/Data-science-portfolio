@@ -1,5 +1,6 @@
 # Data-science-portfolio
 👋 Hi, I’m Pallavi
+
 Welcome to my GitHub profile! I’m a Data Analyst and aspiring Data Scientist passionate about exploring and analyzing data to uncover valuable insights that drive cost efficiencies and improve patient outcomes by predicting negative health events and risks.
 
 🔭 What I'm Working On:
@@ -22,8 +23,7 @@ Feel free to contact me for collaboration or job opportunities:
 Email: pc761@scarletmail.rutgers.edu or pchallag761@gmail.com
 LinkedIn: https://www.linkedin.com/in/pallavichallagundla00/
 
-📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[thehealttechceo]&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehealthtechceo&show_icons=true&count_private=true)
 
 
 
